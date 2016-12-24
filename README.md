@@ -43,7 +43,7 @@ $.ajax({
         challenge: data.challenge,
         product: "float", 
         offline: !data.success 
-      }, handlerEmbed);
+      }, handler);
    }
 });
 </script>
