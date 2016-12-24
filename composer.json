@@ -3,7 +3,6 @@
   "description" : "Geetest For ThinkPHP5.x",
   "version" : "1.0.0",
   "license" : "Apache-2.0",
-  "minimum-stability": "master",
   "autoload" : {
     "psr-4" : {
       "think\\geetest\\" : "src/"
