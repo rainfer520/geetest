@@ -1,0 +1,16 @@
+{
+  "name" : "yfcmf/geetest",
+  "description" : "Geetest For ThinkPHP5.x",
+  "version" : "1.0.0",
+  "license" : "Apache-2.0",
+  "autoload" : {
+    "psr-4" : {
+      "think\\geetest\\" : "src/"
+    },
+    "files" : [ "src/helper.php" ]
+  },
+  "authors" : [ {
+    "name" : "yfcmf",
+    "email" : "81818832@qq.com"
+  } ]
+}
